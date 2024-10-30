@@ -1,6 +1,5 @@
 # Shell-in-c
 
-Got it! Here’s a more informal and personal take on the documentation for **SimpleShell**.
 
 ---
 
@@ -73,8 +72,5 @@ Here’s how to get started with SimpleShell:
      ```
      SimpleShell> exit
      ```
-
-## Wrapping It Up
-Creating SimpleShell  helped me understand how shells work and how they communicate with system commands. While I initially thought about adding an alias feature, I decided to keep things simple and focus on the basics for now. Overall, it’s been a great way to learn, and I hope you find it useful too!
 
 --- 
